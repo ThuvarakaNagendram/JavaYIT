@@ -6,6 +6,6 @@ class A{
 	}
 	
 	void getX(){
-		System.out.println("Ax is: "+this.x);
+		System.out.println("Ax: "+this.x);
 	}
 }
