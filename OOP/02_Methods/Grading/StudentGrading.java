@@ -4,9 +4,6 @@ class StudentGrading{
 	int m1;
 	int m2;
 	int m3;
-	//int total;	
-	//double average;
-	//char result;
 	
 	/*StudentGrading(int id, String name){
 		this.id=id;
