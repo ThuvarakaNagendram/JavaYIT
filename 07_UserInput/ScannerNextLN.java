@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-class ScannerIntro_19{
+class ScannerNextLN{
 	public static void main (String args[]){
 		Scanner scan=new Scanner(System.in);
 		String name="";
 		System.out.print("Please enter your name: ");
-		name=scan.next();
+		name=scan.nextLine();
 		System.out.println("Your name is: "+name);
 		
 		System.out.println("***************************");
