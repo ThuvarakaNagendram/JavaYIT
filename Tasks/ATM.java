@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 class ATM {
     public static void main(String[] args) {
         
