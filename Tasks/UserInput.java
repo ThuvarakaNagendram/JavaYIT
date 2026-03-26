@@ -5,7 +5,7 @@ class UserInput{
 		Scanner scanner=new Scanner(System.in);
 		
 		System.out.print("Enter your name: ");
-		String name=scanner.next();		
+		String name=scanner.nextln();		
 		
 		System.out.print("Enter your marks: ");
 		int marks=scanner.nextInt();
